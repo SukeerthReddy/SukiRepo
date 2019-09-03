@@ -1,0 +1,48 @@
+ul {
+  text-align: center;
+}
+
+.textFieldSearch {
+  padding: 5px;
+  margin: 2px;
+  border: 2px solid black;
+  width: 300px;
+}
+.leftSlider {
+  width: 1400px;
+  height: 900px;
+  margin: 2px;
+  margin-left: 15px;
+
+  background-color: lightslategray;
+}
+.rightSlider {
+  margin: 2px;
+  width: 500px;
+  height: 900px;
+  background-color: aliceblue;
+}
+.buttonReg {
+  margin: 2px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  padding: 2px;
+
+  font-family: "Times New Roman", Times, serif;
+}
+.buttonLogin {
+  margin: 2px;
+  width: 200px;
+  height: 40px;
+  color: white;
+  padding: 2px;
+
+  font-family: "Times New Roman", Times, serif;
+}
+
+.dropdown {
+  width: 400px;
+  height: 20px;
+  color: white;
+}
